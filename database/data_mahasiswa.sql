@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Apr 25, 2024 at 12:19 PM
+-- Generation Time: Apr 25, 2024 at 12:25 PM
 -- Server version: 8.0.30
 -- PHP Version: 8.1.10
 
@@ -39,6 +39,7 @@ CREATE TABLE `data_mahasiswa` (
 --
 
 INSERT INTO `data_mahasiswa` (`nama`, `nim`, `notel`, `email`) VALUES
+('ilham ramadhan', 23510001, '089123312112', 'ilhamramadhan@gmail.com'),
 ('achmad nur rozikin', 23510017, '085738219534', 'achmad_23510017@stimata.ac.id');
 
 --
